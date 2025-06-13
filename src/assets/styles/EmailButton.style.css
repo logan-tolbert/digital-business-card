@@ -1,0 +1,13 @@
+.email-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.3em;
+    padding: 0.25em;
+    width: 70%;
+    margin: 0.8em auto;
+    background-color: #D1D5DB;
+    border-radius: 7px;
+    text-decoration: none;
+    color: #374151;
+}

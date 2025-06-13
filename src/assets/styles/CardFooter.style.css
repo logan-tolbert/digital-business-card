@@ -1,0 +1,10 @@
+.card__footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2em;
+    background-color: #161619;
+    color: #918E9B;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}

@@ -1,0 +1,31 @@
+.card__header {
+    text-align: center;
+}
+
+.header__img {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+h1 {
+    margin: 0 0 0.3em 0;
+    font-size: 1.56rem;
+}
+
+h2 {
+    font-size: 0.8rem;
+    margin: 0;
+    color: #F3BF99;
+}
+
+.header__link {
+    color: #F5F5F5;
+    font-size: 0.65rem;
+    text-decoration: none;
+}
+
+.header__link:hover {
+    color: #F3BF99;
+}
